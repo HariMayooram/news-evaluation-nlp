@@ -4,10 +4,11 @@
 
 ## Introduction
 
-This is an application to evaluate a News Article with Natural Language Processing
+The main objective of this project is to build a web tool which analyses the news article and other such data that the user provides with the help of Natural Language Processing (NLP). The user is supposed to provide a URL and using the contents of that article, the web page would provide the sentiment analysis of the page.
 
 ## Functionalities
-The app takes input of url of a news article from the user and provides the user with analysis of the article. This is achieved by utilizing an NLP API named AYLIEN.
+
+The app uses the input URL to gather the data from the news article provided by the user. After which, it shares the results of the analysis to the user.
 
 ## Steps to use this repo-
 ### run in dev mode
@@ -24,7 +25,6 @@ The app takes input of url of a news article from the user and provides the user
 ` $ npm run build-prod`
 
 ` $ npm run start`
-
 
 
 
